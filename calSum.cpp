@@ -10,6 +10,6 @@ int main()
     cout<<"Enter two number: ";
     cin>>a>>b;
 
-    cout<<"Total sum is: "<<a+b;
+    cout<<"Sum is: "<<a+b;
     return(0);
 }
